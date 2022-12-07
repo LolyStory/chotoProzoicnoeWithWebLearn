@@ -1,0 +1,16 @@
+{
+  "name": "goi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Deadhalfman.js",
+  "scripts": {
+    "start": "echo \"STARTUEM\" && node Deadhalfman.js",
+    "promises": "node .\\promises.js"
+  },
+  "author": "Huilo",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "type": "module" 
+}
